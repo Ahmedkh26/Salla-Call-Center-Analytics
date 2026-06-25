@@ -35,7 +35,7 @@ The full data cleaning and transformation pipeline was executed using SQL. You c
 ## 📈 Interactive Dashboard
 *Below is a preview of the interactive Power BI dashboard developed for this project:*
 
-*(Note: We will upload the dashboard screenshot in the next step!)*
+*(![Salla Call Center Dashboard](dashboard.png))*
 
 ---
 
